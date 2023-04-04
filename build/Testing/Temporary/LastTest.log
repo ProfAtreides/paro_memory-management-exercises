@@ -1,0 +1,19 @@
+Start testing: Apr 04 18:27 CEST
+----------------------------------------------------------
+4/5 Testing: task4-leak-raii
+4/5 Test: task4-leak-raii
+Command: "/usr/bin/valgrind" "--tool=memcheck" "--leak-check=full" "--error-exitcode=1" "--errors-for-leak-kinds=all" "./example_leak_raii"
+Directory: /home/paro/zadania/memory-management/exercises/build
+"task4-leak-raii" start time: Apr 04 18:27 CEST
+Output:
+----------------------------------------------------------
+valgrind: ./example_leak_raii: No such file or directory
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"task4-leak-raii" end time: Apr 04 18:27 CEST
+"task4-leak-raii" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 04 18:27 CEST

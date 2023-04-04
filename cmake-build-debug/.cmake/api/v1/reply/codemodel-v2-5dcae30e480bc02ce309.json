@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "resources",
+					"jsonFile" : "directory-resources-Debug-c7f6e081d69c45024728.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "resources",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "memory-management-exercises",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "kernel-resource-lib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "example_leak::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_leak-Debug-173abadedcf78df6ead8.json",
+					"name" : "example_leak",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_leak_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_leak_array-Debug-1f8f99a4208e6ac3a14d.json",
+					"name" : "example_leak_array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_leak_exception::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_leak_exception-Debug-9f9ac8d84deb6a3215cc.json",
+					"name" : "example_leak_exception",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_leak_fds::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_leak_fds-Debug-20360eeb41caa7fe02cc.json",
+					"name" : "example_leak_fds",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_leak_raii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_leak_raii-Debug-3c8599e3ec30a9107d1e.json",
+					"name" : "example_leak_raii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "kernel-resource::@0c8d8ab3459368375fe6",
+					"jsonFile" : "target-kernel-resource-Debug-600feb074450c9b17fbd.json",
+					"name" : "kernel-resource",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/paro/zadania/memory-management/exercises/cmake-build-debug",
+		"source" : "/home/paro/zadania/memory-management/exercises"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

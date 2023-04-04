@@ -1,0 +1,12 @@
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/example_leak.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/example_leak_array.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/example_leak_exception.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/example_leak_raii.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/example_leak_fds.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/test.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/resources/CMakeFiles/kernel-resource.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/resources/CMakeFiles/test.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/resources/CMakeFiles/edit_cache.dir
+/home/paro/zadania/memory-management/exercises/cmake-build-debug/resources/CMakeFiles/rebuild_cache.dir
